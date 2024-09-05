@@ -5,3 +5,11 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 23%, rgba(
 .color-enlace{
     color: white;
 }
+.jumbotron{
+    background-image: url("../img/Costa\ del\ mar\ con\ agua\ turquesa\ clara\ y\ piedras\ afiladas\ en\ el\ cabo\ Cavo\ Greco\,\ Chipre_\ Marco\ vertical\ _\ Foto\ Premium.jpg");
+    background-size: cover;
+    color: white;
+}
+hr{
+    background-color: white;
+}
